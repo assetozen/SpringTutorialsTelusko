@@ -9,8 +9,6 @@ q
 Asrc/main/java/com/assegd/springframeworktutorialtelusko/Bike.java,f\6\f689843699a007e5df1e37e3185544692b9bc759
 p
 @src/main/java/com/assegd/springframeworktutorialtelusko/Car.java,3\a\3a8e86b7042b228d27b182b8575786bda5782e67
-M
-src/main/resources/spring.xml,4\b\4b86d68d9207451f32ef315a3249a65b74c949a1
 q
 Asrc/main/java/com/assegd/springframeworktutorialtelusko/Tyre.java,c\6\c6397e86cde8b6167c146a7862d3dad9747b165a
 p

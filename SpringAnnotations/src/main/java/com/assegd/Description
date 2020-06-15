@@ -1,0 +1,17 @@
+Link:-
+
+--------------------------- main things we learned here are "Spring Core Annotations" -------------------
+
+- Bean creation using
+        - AppConfig :- configuration class
+- Using Spring Annotations
+        - without the need to create beans for them
+                - just by simply using @Component in the class
+                        - @AutoWired :- where the instance of the class is defined
+- @Primary
+        - when there is a confusion which instance of the class to create, u can assign primary to the one u want
+- @Qualifier
+        - when auto wiring u can specify the name of the component u want to autowire
+
+
+
