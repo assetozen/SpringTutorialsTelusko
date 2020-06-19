@@ -1,0 +1,85 @@
+package com.assegd.tusk.entity;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+/*@Component
+@Scope("prototype") // this will create different object for different requests
+*/
+
+@Entity
+public class Feedback {
+
+	private String name;
+
+	@Id
+	private String email;
+	
+	private String message; 
+	private String regarding;
+	private String code;
+	private int rating;
+
+	public Feedback() {
+	}
+
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getEmail() {
+		return email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
+	public String getMessage() {
+		return message;
+	}
+
+	public void setMsg(String message) {
+		this.message = message;
+	}
+
+	public String getRegarding() {
+		return regarding;
+	}
+
+	public void setReg(String regarding) {
+		this.regarding = regarding;
+	}
+
+	public String getCode() {
+		return code;
+	}
+
+	public void setCode(String code) {
+		this.code = code;
+	}
+
+	public int getRating() {
+		return rating;
+	}
+
+	public void setRating(int rating) {
+		this.rating = rating;
+	}
+
+	@Override
+	public String toString() {
+		return "Feedback [name=" + name + ", email=" + email + ", message=" + message + ", regarding=" + regarding + ", code="
+				+ code + ", rating=" + rating + "]";
+	}
+
+
+
+	
+
+}
