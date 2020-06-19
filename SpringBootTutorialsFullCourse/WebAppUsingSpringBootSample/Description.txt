@@ -1,0 +1,7 @@
+---------------------- Main things to remember
+
+- spring boot doesnt support jsp as a view so
+		- in order to do that you need to first download
+				- tomcat jasper equal version with your embedded tomcat server
+						- check the version of ur tomcat server and download same version of tomcat jasper from mvnrepository
+				- after that your spring boot will know how to convert jsp to servlet

@@ -16,22 +16,38 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
+<<<<<<< HEAD
 			<name>org.eclipse.m2e.core.maven2Builder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-		<buildCommand>
+=======
 			<name>org.eclipse.wst.validation.validationbuilder</name>
+>>>>>>> changesfromnewportitlaptop
 			<arguments>
 			</arguments>
 		</buildCommand>
 		<buildCommand>
+<<<<<<< HEAD
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+=======
 			<name>org.springframework.ide.eclipse.core.springbuilder</name>
+>>>>>>> changesfromnewportitlaptop
 			<arguments>
 			</arguments>
 		</buildCommand>
 		<buildCommand>
+<<<<<<< HEAD
+			<name>org.springframework.ide.eclipse.core.springbuilder</name>
+=======
 			<name>org.springframework.ide.eclipse.boot.validation.springbootbuilder</name>
+>>>>>>> changesfromnewportitlaptop
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+<<<<<<< HEAD
+			<name>org.springframework.ide.eclipse.boot.validation.springbootbuilder</name>
+=======
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+>>>>>>> changesfromnewportitlaptop
 			<arguments>
 			</arguments>
 		</buildCommand>
